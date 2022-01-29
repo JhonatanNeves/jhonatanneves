@@ -1,4 +1,4 @@
-## Olá! eu sou O Jhonatan Neves
+## Hi! I'm Jhonatan Neves
 
 <div align="center">
   <a href="https://github.com/jhonatanneves">
