@@ -17,7 +17,7 @@
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="BTS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img aling="right" alt="gifzao" src="https://media.discordapp.net/attachments/379066757572198410/938807543243866132/GIFPAL-20220203114523.gif">
+  
   
   
   </div>
@@ -35,3 +35,8 @@
   ![Snake animation](https://github.com/jhonatanneves/jhonatanneves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+<div>
+  <h4>Levi Ackerman<h4>
+    <img aling="right" alt="gifzao" src="https://media.discordapp.net/attachments/379066757572198410/938807543243866132/GIFPAL-20220203114523.gif">
+  </div>
