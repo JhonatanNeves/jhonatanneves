@@ -40,13 +40,15 @@
   <img alt="SQL" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6">
       
   ## 📊 &nbsp;Stats
+ 
   <div align="center">
   <a href="https://github.com/jhonatanneves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanneves&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanneves&layout=compact&theme=dark"/>
 </div>
-<div align="center">
+
+    
   <img alt="SnakeAnimation" src="https://github.com/jhonatanneves/jhonatanneves/blob/output/github-contribution-grid-snake.svg">
-  </div>
+  
 
     
