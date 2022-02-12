@@ -1,7 +1,7 @@
 ## Hi! I'm Jhonatan Neves
 
 <div align="center">
-  <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> 
+  <img height="380em" src="https://cdn.discordapp.com/attachments/379066757572198410/942056181751500810/gif.gif"/> 
 </div>
 
 <div align="center"> 
