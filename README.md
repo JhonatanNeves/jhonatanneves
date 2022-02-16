@@ -29,6 +29,7 @@
   <img alt="Node" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
   <img alt="DotNet" src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp">
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   
   
   ### 🎨 &nbsp;Front-end
