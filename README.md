@@ -36,7 +36,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js">
+  <img alt="VueJs" src="https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js">
   
   ### ⚡ &nbsp;Database
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
