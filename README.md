@@ -23,24 +23,8 @@
   ## Estudando
       
   
-   ### 👩‍💻 &nbsp;Back-End
-  <img alt="Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&">
-  <img alt="Ts" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
-  <img alt="Node" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-  <img alt="DotNet" src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp">
+  <img alt="Kt" src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
   
-  
-  
-  ### 🎨 &nbsp;Front-end
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-  <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img alt="VueJs" src="https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js">
-  
-  ### ⚡ &nbsp;Database
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
-  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
       
   ## 📊 &nbsp;Stats
  
