@@ -20,7 +20,7 @@
       
   ## 📊 &nbsp;Stats
  
-  <div align="center">
+  <div align="horizontal">
   <a href="https://github.com/jhonatanneves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanneves&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanneves&layout=compact&theme=dark">
