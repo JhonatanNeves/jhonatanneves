@@ -1,10 +1,6 @@
-## Hi! I'm Jhonatan Neves
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=350&section=footer&text=Hi!%20I'm%20Jhonatan%20Neves&fontSize=50)
 
 <div align="center">
-  <img height="380em" src="https://cdn.discordapp.com/attachments/379066757572198410/942056181751500810/gif.gif"/> 
-</div>
-
-<div align="center"> 
   <a href="https://www.instagram.com/nevesjn2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonatan-neves-0b5626226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:nevesjn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
