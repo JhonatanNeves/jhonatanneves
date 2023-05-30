@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=308&section=footer&text=Hi!%20I'm%20Jhonatan%20Neves&fontSize=50)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8F83B5&text=Hey%20I'm%20Jhonatan%20Neves&height=150&fontSize=60&desc=a%20brazilian%20programmer&descAlignY=75&descAlign=77)
 
 <div align="center">
   <a href="https://www.instagram.com/nevesjn2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
