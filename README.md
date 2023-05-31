@@ -1,16 +1,8 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=8F83B5&text=Hey%20I'm%20Jhonatan%20Neves&height=150&fontSize=60&desc=a%20brazilian%20programmer&descAlignY=75&descAlign=77)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=6D42F8&text=Hi%20,%20I'm%20Jhonatan%20Neves&height=150&fontSize=40)
 
-<div align="center">
-  <a href="https://www.instagram.com/nevesjn2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonatan-neves-0b5626226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:nevesjn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5532999706232" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    </div>
-    
-    
-    
-<div style="display: inline_block"><br>
-  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-neves-0b5626226/)](https://www.linkedin.com/in/jhonatan-neves-0b5626226/)
+[![Gmail Badge](https://img.shields.io/badge/-nevesjn2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nevesjn2@gmail.com)](mailto:nevesjn2@gmail.com)   
+
   ## About me:
   * Jhonatan Neves, 27 years
   * Currently studying Kotlin
@@ -19,13 +11,12 @@
   
       
   ## 📊 &nbsp;Stats
- 
-  <div align="horizontal">
-  <a href="https://github.com/jhonatanneves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanneves&show_icons=true&theme=dark">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanneves&layout=compact&theme=dark">
   
-
+  <div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanneves&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
  
 
     
