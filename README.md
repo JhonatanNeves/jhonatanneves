@@ -4,9 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-nevesjn2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nevesjn2@gmail.com)](mailto:nevesjn2@gmail.com)   
  
  ## My name is Jhonatan Neves
- <img alt="Kt" src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
  
-  - 👩‍💻 Currently studying Kotlin  
+ - 👩‍💻 Currently studying Kotlin  
+  
+  <img alt="Kt" src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
       
   ## 📊 &nbsp;Stats
   
