@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-neves-0b5626226/)](https://www.linkedin.com/in/jhonatan-neves-0b5626226/)
 [![Gmail Badge](https://img.shields.io/badge/-nevesjn2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nevesjn2@gmail.com)](nevesjn2@gmail.com)
 
-<img align="right" alt="Code image" src=".github/workflows/img.jpg"  width="300px" height="250"/>
- 
  ## My name is Jhonatan Neves
   - 👩‍💻 Currently studying Kotlin  
   
