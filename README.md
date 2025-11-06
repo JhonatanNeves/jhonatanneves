@@ -11,7 +11,7 @@
   
   <div align="left">  
   
-   [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanneves&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanneves&show_icons=true&theme=transparent)  
   
 </div>
    
